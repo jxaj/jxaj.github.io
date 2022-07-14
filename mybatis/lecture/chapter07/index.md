@@ -1,16 +1,16 @@
 # 第七章 其他
 
-[第一节 实体类类型别名](verse01.html)
+[第一节 实体类类型别名](mybatis/lecture/chapter07/verse01)
 
-[第二节 类型处理器](verse02.html)
+[第二节 类型处理器](mybatis/lecture/chapter07/verse02)
 
-[第三节 Mapper映射](verse03.html)
+[第三节 Mapper映射](mybatis/lecture/chapter07/verse03)
 
-[第四节 插件机制](verse04.html)
+[第四节 插件机制](mybatis/lecture/chapter07/verse04)
 
-[第五节 Mybatis底层的JDBC封装](verse05.html)
+[第五节 Mybatis底层的JDBC封装](mybatis/lecture/chapter07/verse05)
 
-[第六节 总结](verse06.html)
+[第六节 总结](mybatis/lecture/chapter07/verse06)
 
 
 
